@@ -17,7 +17,7 @@ p {
 @media screen and (min-width:300px) {
     body {
         text-align: center;
-        background-color: rgb(122, 174, 209);
+        background-color: white;
         color: rgb(46, 31, 97);
     }
     label {
@@ -33,7 +33,7 @@ p {
 @media screen and (min-width:600px) {
     body {
         text-align: center;
-        background-color: rgb(122, 174, 209);
+        background-color: white;
         color: rgb(46, 31, 97);
     }
     label {
